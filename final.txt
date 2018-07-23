@@ -1,62 +1,322 @@
-<li>Avoid greasy or salty foods for one week.
-</li><li>No exposure to direct sunlight for one week.
-</li><li>Lastly, and perhaps more of cultural interest than anything else,
- shamans advise "avoiding being seen by strangers to the family."
- (This turns out to be more practical than superstitious.
- After all, who wants to be greeted by strangers when they may
- be dealing with gastrointestinal issues for the two or three
- days they are "under the influence" of Oje?)
- </li>
+﻿<li><li>Abortifacient (1; MAB; MPG; RAI)
+<li><li>Alexeritic (f; CRC)
+<li><li>Analgesic (f; CRC; MAB; RAI; X11574048)
+<li><li>Antiaggregant (1; MAB; RAI)
+<li><li>Anticancer (1; X15829436)
+<li><li>Anticarcinomic (1; RAI)
+<li><li>Antihemorrhagic (1; X11025161)
+<li><li>Antiinflammatory (1; MAB; MPG; RAI; X10820794)
+<li><li>Antileukemic (1; HH2; RAI)
+<li><li>Antilymphosarcomic (1; MAB)
+<li><li>Antimalarial (1; RAI)
+<li><li>AntiMDR (1; RAI; X12636992)
+<li><li>Antimelanomic (1; MAB)
+<li><li>Antimetastatic (1; MAB)
+<li><li>Antioxidant (f1; JAF51:295)
+<li><li>Antiparasitic (f; MAB)
+<li><li>Antiproliferant (1; X12689523; MAB)
+<li><li>Antirheumatic (f1; MAB; RAI)
+<li><li>Antisarcomic (1; HH2; MPG)
+<li><li>Antiseptic (1; MAB; MPG; RAI)
+<li><li>Antitelomerase (1; X15829436)
+<li><li>Antitrypanosomic (1; X11190779)
+<li><li>Antitumor (f1; MAB; MPG; PED)
+<li><li>Antiulcer (1; MAB)
+<li><li>Antiviral (1; HH2; MAB; RAI)
+<li><li>Aphrodisiac (f; CRC)
+<li><li>Apoptotic (1; X14597880)
+<li><li>Astringent (f; MPB; PED)
+<li><li>Bactericide (1; APA; MAB; RAI)
+<li><li>Candidicide (1; MAB)
+<li><li>Chemopreventive (1; X145979880)
+<li><li>Cicatrizant (f1; DLZ)
+<li><li>Cox-2 Inhibitor (1; X15829436)
+<li><li>Cytotoxic (1; HH@; X9567326)
+<li><li>Depurative (f; MAB)
+<li><li>Digestive (f; APA)
+<li><li>Diuretic (f; CRC; PED; X11574048)
+<li><li>Estrogenic (1; MAB)
+<li><li>Febrifuge (f; PED)
+<li><li>Fungicide (1; APA; CRC; MAB; PED)
+<li><li>Hypoglycemic (f; APA)
+<li><li>Immunodepressant (1; MAB)
+<li><li>Immunostimulant (1; MAB; RAI)
+<li><li>Insectifuge (1; RAI)
+<li><li>Laxative (f1; JAF51:295; RAI)
+<li><li>Parasiticide (1; APA)
+<li><li>Protisticide (1; MAB; RAI)
+<li><li>Respiro-Stimulant (1; RAI)
+<li><li>RT-Inhibitor (1; HH2)
+<li><li>Schistosomicide (1; RAI)
+<li><li>Secretolytic (f; RAI)
+<li><li>Termiticide (1; RAI)
+<li><li>Termitifuge (1; CRC)
+<li><li>Tonic (f; DLZ; RAI)
+<li><li>Trypanosomicide (1; MAB)
+<li><li>Vitamin-K-Antagonist (1; X9137445)
+  
 -----------------
-<li>Antiinflammatory (f; DAV);
- </li><li>Antiseptic (f1; DLZ; 60P);
- </li><li>Antitumor (f1; 60P);
- </li><li>Aphrodisiac (f; SAR);
- </li><li>Artemicide (1; 60P);
- </li><li>Caustic (f; RAR);
- </li><li>Cicatrizant (f; DLZ);
- </li><li>Laxative (f; 60P);
- </li><li>Memorigenic (f; RAR; SAR);
- </li><li>Parasiticide (f1; 60P);
- </li><li>Proteolytic (1; 60P);
- </li><li>Purgative (f; RAR);
- </li><li>Stimulant (f; RAR);
- </li><li>Tonic (f; MD2, RAR);
- </li><li>Toxic (1; X10363841; X15814256);
- </li><li>Vermifuge (f; MD2; RAR).
-   </li>
+</ul>
+ <br><br>
+
+<div>Indications</b></div>
+<img><b>Further information for practitioners:</b>
+  Duke provides the following indications for this plant:<br>
+
+<ul>
+<li><li>Abscesses (1; RAI)
+<li><li>Adenopathy (1; CRC; JLH)
+<li><li>Allergies (f; RAI)
+<li><li>Anemia (f; MAB; RAI)
+<li><li>Arteriosclerosis (1; DLZ)
+<li><li>Arthrosis (f; RAI)
+<li><li>Asthma (f; HH2; RAI)
+<li><li>Athlete's Foot (f1; APA; RAI)
+<li><li>Backache (f; RAI)
+<li><li>Bacteria (f1; RAI; X12636992)
+<li><li>Bleeding (f; RAI)
+<li><li>Boils (f; CRC)
+<li><li>Bronchosis (f; HH2)
+<li><li>Bursitis (f; RAI)
+<li><li>Cancer (f1; APA; MAB; MPB)
+<li><li>Cancer, breast (f1; CRC; FNF; JLH; X9567326)
+<li><li>Cancer, colon (f1; CRC; FNF; JLH; X9567326)
+<li><li>Cancer, esophagus (f1; CRC; FNF; JLH)
+<li><li>Cancer, intestine (f1; CRC; FNF; JLH)
+<li><li>Cancer, ovary (1; RAI)
+<li><li>Cancer, pancreas (f1; CRC; FNF; JLH; RAI)
+<li><li>Cancer, prostate (f1; CRC; FNF; JLH)
+<li><li>Cancer, skin (1; MAB; PED)
+<li><li>Cancer, throat (f1; CRC; FNF; JLH)
+<li><li>Cancer, tongue (f1; CRC; FNF; JLH)
+<li><li><i>Candida</i> (f1; MAB; RAI)
+<li><li>Carcinoma (1; MAB)
+<li><li>Chagas (1; X11190779)
+<li><li>Chlorosis (f; CRC)
+<li><li>Circulosis (f; RAI)
+<li><li>Colds (f; CRC)
+<li><li>Colitis (f; RAI)
+<li><li>Constipation (f1; JAF51:295)
+<li><li>Coughs (f; RAI)
+<li><li>Cystosis (f; MPG; RAI)
+<li><li>Decubitus (f; HH2)
+<li><li>Dermatosis (f1; MAB; PED; RAI; X11378228)
+<li><li>Diabetes (f; DLZ; JAF51:295)
+<li><li>Diarrhea (f; CRC)
+<li><li>Dysentery (f; CRC; MAB)
+<li><li>EBV (1; MAB)
+<li><li>Dysuria (f; CRC; RAI)
+<li><li>Eczema (f1; MAB; PED; RAI)
+<li><li>Edema (1; HH2)
+<li><li>Enterosis (f; JLH; MPG; RAI)
+<li><li>Enuresis (f; CRC; RAI)
+<li><li>Fever (f; CRC)
+<li><li>Flu (f; RAI)
+<li><li>Fungus (f1; CRC; SKY)
+<li><li>Gastrosis (f; HH2; RAI)
+<li><li>Gingivosis (f; RAI)
+<li><li>Glioma (1; RAI)
+<li><li>Gonorrhea (f; CRC; MPB, RAI)
+<li><li>Headache (f; CRC; RAI)
+<li><li>Hemorrhoids (f; PED; RAI)
+<li><li>Hepatoma (1; RAI)
+<li><li>Hepatosis (f; RAI)
+<li><li>Hernia (f; RAI)
+<li><li>Herpes (f; RAI)
+<li><li>Hodgkin's Disease (f; APA; CRC; RAI)
+<li><li>Immune Dysfunction (f1; RAI; SKY)
+<li><li>Impetigo (f; RAI)
+<li><li>Incontinence (f; CRC; RAI)
+<li><li>Infection (f1; HH2; MAB; RAI)
+<li><li>Inflammation (f1; RAI; X10820794)
+<li><li>Itch (f; RAI)
+<li><li><i>Leishmania</i> (f; RAI)
+<li><li>Leukemia (1; APA; MAB; PED)
+<li><li>Lupus (f; CRC; RAI)
+<li><li>Malaria (f1; MAB; RAI)
+<li><li>Metastasis (f; JLH)
+<li><li>Mycosis (f1; CRC; HH2; MAB; X11378288)
+<li><li>Myeloma (1; RAI)
+<li><li>Osteomyelitic (f; RAI)
+<li><li>Pain (f1; CRC; HH2; RAI; X11574048)
+<li><li>Parasites (f; RAI)
+<li><li>Parkinson's (f; RAI)
+<li><li>Pharyngosis (f; CRC; RAI)
+<li><li>Polyps (f; JLH)
+<li><li>Prostatosis (f; RAI)
+<li><li>Psoriasis (f1; PED; RAI; X10479319)
+<li><li>Pulmonosis (f; DLZ)
+<li><li>Rabies (f; CRC)
+<li><li>Respirosis (f; RAI)
+<li><li>Rheumatism (f; HH2; PED)
+<li><li>Ringworm (f; MPB)
+<li><li>Scabies (f; MAB; MPB; RAI)
+<li><li>Schistosomiasis (1; MAB)
+<li><li>Snake Bite (1; CRC; X11025161)
+<li><li>Sores (f; HH2; MPB)
+<li><li>Sore Throat (f; MAB; RAI)
+<li><li><i>Staphylococcus</i> (1; HH2; X12636992)
+<li><li>Stomachache (1; HH2)
+<li><li>Stomatosis (f; RAI)
+<li><li>Swelling (1; X11574048)
+<li><li>Syphilis (f; CRC; RAI)
+<li><li>Tendonosis (f; RAI)
+<li><li>Toothache (f; CRC; RAI)
+<li><li>Trypanosomiasis (1; X11190779)
+<li><li>Ulcers (f1; JAF51:295; MAB; PED; RAI)
+<li><li>Uterosis (f; RAI)
+<li><li>UTI's (f; RAI)
+<li><li>Vaginosis (1; MAB)
+<li><li>Varicosity (f; RAI)
+<li><li>VD (f; CRC; MPB)
+<li><li>Warts (f; RAI)
+<li><li>Wounds (f1; DLZ; MAB)
+<li><li>Yeast (f1; CRC; MAB; RAI; SKY)
+  
 -----------------
-<li>Alzheimer's (f; RAR; SAR);
- </li><li>Ancylostomiasis (f; MPB);
- </li><li>Anemia (f; SOU);
- </li><li>Anorexia (f; SOU);
- </li><li>Cancer (f1; 60P);
- </li><li>Cheilosis (f; DLZ);
- </li><li>Constipation (f; 60P);
- </li><li>Dyspepsia (f; IED);
- </li><li>Enterosis (f; CTD);
- </li><li>Fever (f; SOU);
- </li><li>Fracture (f; DLZ);
- </li><li>Gastrosis (f; DLZ);
- </li><li>Impotence (f; SAR);
- </li><li>Infection (f1; DLZ; 60P);
- </li><li>Inflammation (f; DAV);
- </li><li>Jaundice (f; MPB);
- </li><li>Malaria (f; DLZ; JFM);
- </li><li>Memory (f; RAR; SAR);
- </li><li>Pain (f; IED);
- </li><li>Parasites (f1; CTD; 60P);
- </li><li>Rheumatism (f; CTD; DAV);
- </li><li>Snake Bite (f; MD2);
- </li><li>Sores (f; DLZ);
- </li><li>Stings (stingray) (f; MD2; 60P);
- </li><li>Stomachache (f; IED);
- </li><li>Stomatosis (f; DLZ);
- </li><li>Ulcers (f; DLZ);
- </li><li>Worms (f; RAR);
- </li><li>Wounds (f; DLZ).
-   </li>
+</ul>
+  <br>
+
+<p>
+<div>
+<font>
+<a>Home</a> |
+ <a>Order</a> |
+ <a>Email</a>
+ </font>
+ </div>
+ </div>
+ <br><br>
+ </td>
+
+
+
+<td>
+<center>
+<a>
+<img></a>
+ </center>
+ <br>
+
+<table>
+<tr><td>
+<div>
+<img><b>To U.S. Users:</b> This product
+ have not been evaluated by the U.S. Food & Drug Administration.
+ It is not intended to diagnose, treat, cure, or prevent any disease.
+ </div>
+ </td></tr></table>
+ <br>
+
+
+<div>
+<img><br>
+<b>Recent Studies on Pau d'Arco<br>
+Sourced from PubMed</b>
+ </div>
+
+<img><b>Disclaimer:</b> The following citations provide findings on the
+ properties of Pau d'Arco and offer insights into prospective areas of future research.
+ These findings should not be inferred to provide the basis of medicinal claims,
+ nor should they be relied upon by the public, as such.  Readers who want full access to
+ the PubMed database are encouraged to
+ <a><b>register with NCBI</b></a>.<br>
+<img>As of Jan. 2017, there were 165 citations posted on Pau d'Arco.
+ Below we list a few of the more notable:<br>
+
+<ul>
+<li><li><a>
+<b>Antiulcer effect of bark extract of Tabebuia avellanedae: activation of cell proliferation in gastric mucosa during the healing process.</b></a>
+ (2013) <b>[ABSTRACT:</b> . . . The results demonstrate that EET significantly accelerates healing of acetic acid induced gastric ulcer in rats
+ through increase of mucus content and cell proliferation, indicating a potential usefulness for treatment of peptic ulcer diseases.]
+<li><li><a>
+<b>Antiproliferative activity, antioxidant capacity and tannin content in plants of semi-arid northeastern Brazil.</b></a> (2010)
+<li><li><a>
+<b>The anti-obesity effect of Taheebo (Tabebuia avellanedae Lorentz ex Griseb) extract in ovariectomized mice and the identification
+ of a potential anti-obesity compound.</b></a> (2016)
+<li><li><a>
+<b>Iridoid Esters from Tabebuia avellanedae and Their In Vitro Anti-inflammatory Activities.</b></a> (2017)
+<li><li><a>
+<b>Anti-inflammatory cyclopentene derivatives from the inner bark of Tabebuia avellanedae.</b></a> (2016)
+<li><li><a>
+<b>β-lapachone suppresses the proliferation of human malignant melanoma cells by targeting specificity protein 1.</b></a> (2016)
+[ABSTRACT: . . . "Taken together, our findings indicated that β-lap modulates Sp1 transactivation and induces apoptotic cell death through
+ the regulation of cell cycle- and apoptosis-associated proteins. Thus, β-lap may be used as a promising anticancer drug for cancer
+ prevention and may improve the clinical outcome of patients with cancer."]
+<li><li><a>
+<b>Bioactive Properties of Tabebuia impetiginosa-Based Phytopreparations and Phytoformulations: A Comparison between Extracts and Dietary Supplements.</b></a>
+ (2015) [ABSTRACT: " . . .  The cytotoxicity was determined in four human tumor cell lines (MCF-7, NCI-H460, HeLa and HepG2, and also in non-tumor cells
+ (porcine liver primary cells, PLP2)) . . ." ]
+
 -----------------
-<li>Duke, James A., ibid., p. 322.
-  </li><li>Bolivia: </li><li>Peru: </li><li>Nicaragua: </li>
+</ul>
+
+<center>
+<a>
+<img></a>
+</center>
+<br>
+
+<ul>
+<li><li><a>
+<b>In vitro antioxidant and free radical scavenging activity of different parts of Tabebuia pallida growing in Bangladesh.</b></a>
+ (2015) [CONCLUSION: Methanolic extract of T. pallida leaf is a potential source of natural antioxidants and serves as an effective
+ free radical scavenger and/or inhibitor. Hence, T. pallida might be a good plant-based pharmaceutical product for several diseases
+ caused by free radicals.]
+<li><li><a>
+<b>β-Lapachone suppresses neuroinflammation by modulating the expression of cytokines and matrix metalloproteinases in activated microglia.</b></a>
+ (2015) [CONCLUSION: The strong anti-inflammatory/anti-oxidant effects of β-LAP may provide preventive therapeutic potential for various
+ neuroinflammatory disorders.]
+<li><li><a>
+ <b>Melanogenesis inhibition of β-lapachone, a natural product from Tabebuia avellanedae, with effective in vivo lightening potency.</b></a> (2015)
+ [ABSTACT: " . . . These results show that β-lapachone may be useful as a potential depigmentation agent for various hyperpigmentation disorders . . ."]
+<li><li><a>
+<b>Ethanolic extract of Taheebo attenuates increase in body weight and fatty liver in mice fed a high-fat diet.</b></a> (2014)
+ [ABSTRACT: " . . . These results suggest that TBE inhibits obesity and fat accumulation by regulation of gene expression related to lipid
+ metabolism in HFD-induced obesity in mice.]
+<li><li><a>
+ <b>Changes in anthropometric measurements, body composition, blood pressure, lipid profile, and testosterone in patients
+ participating in a low-energy dietary intervention.</b></a>
+ [EDITOR: Pau d'Arco was used as part of a cleansing supplementation program administered prior to a low-energy dietary
+  regimen.  I include it here for its sheer experimental and clinical novelty.
+  CONCLUSION: Weight loss and improvements in total cholesterol and low-density
+  lipoprotein cholesterol levels occurred after a low-energy-density dietary intervention plus regimented supplementation program.]
+<li><li><a>
+<b>Synthesis and cytotoxicity on human leukemia cells of furonaphthoquinones isolated from tabebuia plants.</b></a> (2013)
+ [ABSTRACT: " . . .  Our work highlights the importance of furonaphthoquinones (from pau d'arco
+ (and other tabebuia members) as antileukemic agents.]
+<li><li><a>
+<b>Analgesic and anti-inflammatory effects in animal models of an ethanolic extract of Taheebo, the inner bark of Tabebuia avellanedae.</b></a>
+ (2012)
+<li><li><a>
+<b>Medicinal plants used as antitumor agents in Brazil: an ethnobotanical approach.</b></a> (2011)
+<li><li><a>
+<b>Study of the antineoplastic action of Tabebuia avellanedae in carcinogenesis induced by azoxymethane in mice.</b></a> (2011)
+<li><li><a>
+<b>Mixtures of Uncaria and Tabebuia extracts are potentially chemopreventive in CBA/Ca mice: a long-term experiment.</b></a> (2011)
+<li><li><a>
+<b>Growth inhibition of estrogen receptor positive human breast cancer cells by Taheebo from the inner bark of Tabebuia avellandae tree.</b></a>
+ (2009)
+
 -----------------
+</ul>
+
+  <center>
+<a>
+<img></a>
+ </center>
+
+<img>Extensive information about
+ <b><a>Pau d'Arco is covered on the Raintree Forest website</a></b>.
+ Even better, you can purchase Leslie Taylor's excellent reference book,
+ <b><a>The Healing Power
+ of Rainforest Herbs: A Guide to Understanding and Using Herbal Medicinals</a></b> at Amazon.<br>
+<img><i>Handroanthus impetiginosa</i> is referenced in
+ <a>Wikipedia</a>,
+  as is the <a>lapacho</a> preparation.<br>
+
+ </font>
+ </td></tr></table>
+ </center>
+</body>
+</html>
